@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @leannebiju
+- 👀 I’m interested in web development and new ideas
