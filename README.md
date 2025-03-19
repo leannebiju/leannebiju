@@ -1,5 +1,5 @@
 ## Hi, I'm Leanne
-🧠 Computer Science Student at SOE, CUSAT</br>
+🧠 Computer Science Student at School of Engineering, CUSAT</br>
 🌱 Interested in frontend web development and design</br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1100&color=39FF14&vCenter=true&width=1000&lines=I+like+to+do+fun+projects)](https://git.io/typing-svg)
