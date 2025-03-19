@@ -9,7 +9,7 @@
 # 🔥 GitHub Streak Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40px">&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leannebiju&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="450" height="250">
 &nbsp;
-![](https://nirzak-streak-stats.vercel.app/?user=leannebiju&theme=dark&hide_border=false&card_width=450)
+<img src="https://nirzak-streak-stats.vercel.app/?user=leannebiju&theme=dark&hide_border=false" width="450" height="250">
 
 ---
 [![](https://visitcount.itsvg.in/api?id=leannebiju&icon=0&color=0)](https://visitcount.itsvg.in)
