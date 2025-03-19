@@ -21,4 +21,5 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=leannebiju&theme=dark&hide_border=false&cardwidth=300)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=leannebiju&label=Profile%20Views&color=12&icon=5)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=leannebiju&label=Profile%20Views&color=blue&style=flat)
+
