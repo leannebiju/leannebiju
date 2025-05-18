@@ -1,4 +1,4 @@
-## Hi, I'm Leanne
+# Hi, I'm Leanne
 🧠 BTech Computer Science Student at School of Engineering, CUSAT</br>
 🌱 Interested in DSA, frontend web development and design</br>
 
