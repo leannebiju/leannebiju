@@ -17,7 +17,6 @@
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 # 🔥 GitHub Streak Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40px">&nbsp;
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=leannebiju&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&card_width=300&langs_count=8)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=leannebiju&layout=compact&langs_count=8&theme=dark&card_width=300&hide_border=false&include_all_commits=false&count_private=false&v=4)
 
 &nbsp;&nbsp;
 ![](https://nirzak-streak-stats.vercel.app/?user=leannebiju&theme=dark&hide_border=false&cardwidth=300)
